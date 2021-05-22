@@ -1,0 +1,2 @@
+# BakkalUyg
+Basic Bakkal Uygulama
